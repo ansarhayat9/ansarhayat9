@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Anything related to cloud.**
+- 💬 Ask me about new changes **Anything related to cloud.**
 
 - 📫 How to reach me **ansahayat286@gmail.com**
 
