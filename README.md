@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mq151214" alt="mq151214" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about  **Anything related to cloud.**
+- 💬 Ask me about  **Anything related to Web Development.**
 
 - 📫 How to reach me **ansahayat286@gmail.com**
 
