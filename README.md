@@ -51,18 +51,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mq151214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4AA&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mq151214&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mq151214&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9" />
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
